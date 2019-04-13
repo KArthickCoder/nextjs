@@ -7,7 +7,7 @@ function Index() {
       <Header />
       <section>
         <Link href="/about">
-          <a>Selvaraj Check</a>
+          <a>KArthick Check</a>
         </Link>
       </section>
     </main>
