@@ -16,6 +16,7 @@ class AboutPage extends Component {
           <p>
             This is another page of the SSR example, you accessed it{" "}
             <strong>{this.props.isServer ? "server" : "client"} side</strong>.
+            {"check karthick"}
           </p>
           <p>
             You can reload to see how the page change.

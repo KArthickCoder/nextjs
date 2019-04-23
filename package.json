@@ -1,10 +1,11 @@
 {
   "scripts": {
     "build": "next build",
-    "dev": "next",
+    "dev": "next | node app",
     "now-build": "next build"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "next": "^8.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
