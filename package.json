@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "next build",
+    "dev": "next | node app",
+    "now-build": "next build"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "next": "^8.1.0",
+    "now": "^15.4.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
